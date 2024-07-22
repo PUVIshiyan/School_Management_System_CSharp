@@ -93,6 +93,18 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UI\Grade\frmGradeMaster.resx">
+      <DependentUpon>frmGradeMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Student\frmStudentCreate.resx">
+      <DependentUpon>frmStudentCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Student\frmStudentMaster.resx">
+      <DependentUpon>frmStudentMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Subject\frmSubjectMaster.resx">
+      <DependentUpon>frmSubjectMaster.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

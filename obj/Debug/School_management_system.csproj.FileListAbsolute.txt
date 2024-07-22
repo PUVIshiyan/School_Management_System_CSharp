@@ -1,0 +1,11 @@
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\bin\Debug\School_management_system.exe.config
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\bin\Debug\School_management_system.exe
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\bin\Debug\School_management_system.pdb
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.csproj.AssemblyReference.cache
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.Properties.Resources.resources
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.UI.Grade.frmGradeMaster.resources
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.UI.Subject.frmSubjectMaster.resources
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.csproj.GenerateResource.cache
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.csproj.CoreCompileInputs.cache
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.exe
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.pdb

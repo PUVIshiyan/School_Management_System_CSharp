@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|d:\\class\\yarlit\\github\\school_management_system_csharp\\ui\\student\\frmstudentcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|solutionrelative:ui\\student\\frmstudentcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|d:\\class\\yarlit\\github\\school_management_system_csharp\\ui\\student\\frmstudentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|solutionrelative:ui\\student\\frmstudentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|d:\\class\\yarlit\\github\\school_management_system_csharp\\ui\\subject\\frmsubjectmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|solutionrelative:ui\\subject\\frmsubjectmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|d:\\class\\yarlit\\github\\school_management_system_csharp\\ui\\grade\\frmgrademaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF3EDF9D-BC23-47C3-AEAF-66D4F82F19C6}|School_management_system.csproj|solutionrelative:ui\\grade\\frmgrademaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStudentCreate.cs [Design]",
+              "DocumentMoniker": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Student\\frmStudentCreate.cs",
+              "RelativeDocumentMoniker": "UI\\Student\\frmStudentCreate.cs",
+              "ToolTip": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Student\\frmStudentCreate.cs [Design]",
+              "RelativeToolTip": "UI\\Student\\frmStudentCreate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:41:46.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStudentMaster.cs [Design]",
+              "DocumentMoniker": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Student\\frmStudentMaster.cs",
+              "RelativeDocumentMoniker": "UI\\Student\\frmStudentMaster.cs",
+              "ToolTip": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Student\\frmStudentMaster.cs [Design]",
+              "RelativeToolTip": "UI\\Student\\frmStudentMaster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:37:15.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSubjectMaster.cs [Design]",
+              "DocumentMoniker": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Subject\\frmSubjectMaster.cs",
+              "RelativeDocumentMoniker": "UI\\Subject\\frmSubjectMaster.cs",
+              "ToolTip": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Subject\\frmSubjectMaster.cs [Design]",
+              "RelativeToolTip": "UI\\Subject\\frmSubjectMaster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:16:05.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGradeMaster.cs [Design]",
+              "DocumentMoniker": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Grade\\frmGradeMaster.cs",
+              "RelativeDocumentMoniker": "UI\\Grade\\frmGradeMaster.cs",
+              "ToolTip": "D:\\Class\\YarlIT\\gitHub\\School_Management_System_CSharp\\UI\\Grade\\frmGradeMaster.cs [Design]",
+              "RelativeToolTip": "UI\\Grade\\frmGradeMaster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T05:34:08.017Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
