@@ -16,5 +16,14 @@ namespace School_management_system.UI.Subject
         {
             InitializeComponent();
         }
+
+        private void frmSubjectMaster_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult dr = MessageBox.Show("Do you want to close?", "Question", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
+        }
     }
 }

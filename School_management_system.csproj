@@ -66,17 +66,17 @@
     <Compile Include="UI\Grade\frmGradeMaster.Designer.cs">
       <DependentUpon>frmGradeMaster.cs</DependentUpon>
     </Compile>
-    <Compile Include="UI\Student\frmStudentCreate.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UI\Student\frmStudentCreate.Designer.cs">
-      <DependentUpon>frmStudentCreate.cs</DependentUpon>
-    </Compile>
     <Compile Include="UI\Student\frmStudentEdit.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="UI\Student\frmStudentEdit.Designer.cs">
       <DependentUpon>frmStudentEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Student\frmStudentCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Student\frmStudentCreate.Designer.cs">
+      <DependentUpon>frmStudentCreate.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\Student\frmStudentMaster.cs">
       <SubType>Form</SubType>
@@ -104,6 +104,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\Grade\frmGradeMaster.resx">
       <DependentUpon>frmGradeMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Student\frmStudentEdit.resx">
+      <DependentUpon>frmStudentEdit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\Student\frmStudentCreate.resx">
       <DependentUpon>frmStudentCreate.cs</DependentUpon>

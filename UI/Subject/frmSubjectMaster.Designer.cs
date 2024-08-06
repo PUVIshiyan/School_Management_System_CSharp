@@ -254,6 +254,7 @@
             this.Controls.Add(this.groupBox3);
             this.Name = "frmSubjectMaster";
             this.Text = "frmSubjectMaster";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmSubjectMaster_FormClosing);
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.grvGrade)).EndInit();
             this.groupBox1.ResumeLayout(false);

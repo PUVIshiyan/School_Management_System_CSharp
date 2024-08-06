@@ -12,3 +12,4 @@ D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_manageme
 D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.UI.FrmDashboard.resources
 D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.UI.Student.frmStudentCreate.resources
 D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.UI.Student.frmStudentMaster.resources
+D:\Class\YarlIT\gitHub\School_Management_System_CSharp\obj\Debug\School_management_system.UI.Student.frmStudentEdit.resources
