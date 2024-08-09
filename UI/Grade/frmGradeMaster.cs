@@ -50,6 +50,21 @@ namespace School_management_system.UI.Grade
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+            if (is_addNew)
+            {
+                DAL.GradeDal.insert(txtName.Text.Trim(), txtOrder.Text.Trim(), txtColor.Text.Trim());
+                MessageBox.Show("Save success fully!!!");
+                DataTable dt = DAL.GradeDal.GetAll();
+                grvGrade.DataSource = dt;
+                txtName.Text=null;
+                txtOrder.Text=null;
+                txtColor.Text=null;
+                txtGroup.Text=null;
+            }
+            else
+            {
+                 
+            }
             ButtonEnable(false);
         }
 
@@ -82,7 +97,8 @@ namespace School_management_system.UI.Grade
 
         private void btnRefresh_Click(object sender, EventArgs e)
         {
-            //select all function
+            DataTable dt = DAL.GradeDal.GetAll();
+            grvGrade.DataSource = dt;
         }
     }
 }

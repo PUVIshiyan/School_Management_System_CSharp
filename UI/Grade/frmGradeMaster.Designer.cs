@@ -30,9 +30,11 @@
         {
             this.grvGrade = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtColor = new System.Windows.Forms.TextBox();
             this.txtOrder = new System.Windows.Forms.TextBox();
             this.txtGroup = new System.Windows.Forms.TextBox();
             this.txtName = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -66,9 +68,11 @@
             // groupBox1
             // 
             this.groupBox1.BackColor = System.Drawing.Color.GhostWhite;
+            this.groupBox1.Controls.Add(this.txtColor);
             this.groupBox1.Controls.Add(this.txtOrder);
             this.groupBox1.Controls.Add(this.txtGroup);
             this.groupBox1.Controls.Add(this.txtName);
+            this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
@@ -79,12 +83,20 @@
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             // 
+            // txtColor
+            // 
+            this.txtColor.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtColor.Location = new System.Drawing.Point(93, 126);
+            this.txtColor.Name = "txtColor";
+            this.txtColor.Size = new System.Drawing.Size(181, 23);
+            this.txtColor.TabIndex = 3;
+            // 
             // txtOrder
             // 
             this.txtOrder.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtOrder.Location = new System.Drawing.Point(93, 97);
             this.txtOrder.Name = "txtOrder";
-            this.txtOrder.Size = new System.Drawing.Size(181, 27);
+            this.txtOrder.Size = new System.Drawing.Size(181, 23);
             this.txtOrder.TabIndex = 3;
             // 
             // txtGroup
@@ -92,7 +104,7 @@
             this.txtGroup.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtGroup.Location = new System.Drawing.Point(93, 69);
             this.txtGroup.Name = "txtGroup";
-            this.txtGroup.Size = new System.Drawing.Size(181, 27);
+            this.txtGroup.Size = new System.Drawing.Size(181, 23);
             this.txtGroup.TabIndex = 2;
             // 
             // txtName
@@ -100,8 +112,18 @@
             this.txtName.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtName.Location = new System.Drawing.Point(93, 39);
             this.txtName.Name = "txtName";
-            this.txtName.Size = new System.Drawing.Size(181, 27);
+            this.txtName.Size = new System.Drawing.Size(181, 23);
             this.txtName.TabIndex = 1;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(19, 126);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(46, 19);
+            this.label5.TabIndex = 9;
+            this.label5.Text = "Color";
             // 
             // label4
             // 
@@ -109,7 +131,7 @@
             this.label4.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(19, 97);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(57, 23);
+            this.label4.Size = new System.Drawing.Size(49, 19);
             this.label4.TabIndex = 9;
             this.label4.Text = "Order";
             // 
@@ -119,7 +141,7 @@
             this.label3.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(19, 69);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 23);
+            this.label3.Size = new System.Drawing.Size(51, 19);
             this.label3.TabIndex = 8;
             this.label3.Text = "Group";
             // 
@@ -129,7 +151,7 @@
             this.label2.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(20, 39);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(57, 23);
+            this.label2.Size = new System.Drawing.Size(49, 19);
             this.label2.TabIndex = 7;
             this.label2.Text = "Name";
             // 
@@ -284,5 +306,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtColor;
+        private System.Windows.Forms.Label label5;
     }
 }
